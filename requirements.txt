@@ -2,6 +2,11 @@ streamlit
 google-generativeai
 PyPDF2
 python-dotenv
-googletrans-py
+googletrans==4.0.0rc1
 gTTS
 pydub
+SpeechRecognition
+openai-whisper
+redis
+chromadb
+sentence-transformers
